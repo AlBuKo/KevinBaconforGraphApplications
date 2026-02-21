@@ -5,8 +5,6 @@ Project: Small-World Phenomenon (Kevin Bacon Numbers)
 Student Information
 --------------------------------------------------
 Student Name : [ALPEREN BURAK KOÇYİĞİT]
-Student ID   : [150121035]
-
 --------------------------------------------------
 Project Description
 --------------------------------------------------
